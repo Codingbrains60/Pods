@@ -1,0 +1,6 @@
+framework module Pods_FlashAlert_FlashAlertUITests {
+  umbrella header "Pods-FlashAlert-FlashAlertUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-FlashAlert-FlashAlertUITests/Pods-FlashAlert-FlashAlertUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/BetterSegmentedControl/BetterSegmentedControl.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/LMCSideMenu/LMCSideMenu.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
+${BUILT_PRODUCTS_DIR}/SwiftKeychainWrapper/SwiftKeychainWrapper.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
